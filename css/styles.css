@@ -88,6 +88,11 @@ img {
     height: 300px;
 }
 
+.btn-poster {
+    color: #fff;
+    background-color: #4d57a3;
+    border-color: #4d57a3;
+}
 
 #features .card {
     border-color: transparent;
